@@ -27,15 +27,15 @@
 
 # 内置模块
 
-**axios**
+**[axios](http://www.axios-js.com/)**
 
-**router**
+**[router](https://github.com/ReactTraining/react-router#readme)**
 
-**redux**
+**[redux](https://redux.js.org/faq/react-redux)**
 
-**sass**
+**[sass](https://www.sass.hk/)**
 
-**@craco/craco**
+**[@craco/craco](https://www.npmjs.com/package/@craco/craco)**
 
 ##### craco.fonfig.js不释放webpack的情况下配置webpack
 
